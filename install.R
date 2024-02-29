@@ -1,1 +1,8 @@
 install.packages("readr")
+install.packages("sf")
+install.packages("terra")
+install.packages("stringr")
+install.packages("tidyr")
+install.packages("sp")
+install.packages("psych")
+install.packages("corrgram")
