@@ -6,13 +6,11 @@ install.packages("tidyr")
 install.packages("sp")
 install.packages("psych")
 install.packages("corrgram")
-install.packages("sf")
 install.packages("jsonlite")
 install.packages("osmdata")
 install.packages("ggplot2")
 install.packages("leaflet")
 install.packages("raster")
-install.packages("terra")
 install.packages("ggspatial")
 
 
